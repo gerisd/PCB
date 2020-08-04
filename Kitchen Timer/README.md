@@ -2,11 +2,11 @@
 
 ## Results
 ### Schematic
-![Schematic](Results/Timer Schematic.png)
+![Schematic](Results/Timer_Schematic.png)
 
 ### PCB 
-![PCB](Results/Timer PCB.png)
+![PCB](Results/Timer_PCB.png)
 
 ### PCB 3D View
-![3D View](Results/Timer 3D.png)
+![3D View](Results/Timer_3D.png)
 
