@@ -2,7 +2,7 @@
 
 ## Results
 ### Schematic
-![Schematic](Results/Arduino_Schematic.png =400x200)
+![Schematic](Results/Arduino_Schematic.png){ height=50% width=50%}
 ![Sub Page] (Results/Arduino Schematic 2.png)
 
 ### PCB 
