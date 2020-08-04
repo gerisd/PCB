@@ -2,10 +2,10 @@
 
 ## Results
 ### Schematic
-![Schematic](Results/Power Supply Schematic.png)
+![Schematic](Results/Power_Supply_Schematic.png)
 
 ### PCB 
-![PCB](Results/Power Supply PCB.png)
+![PCB](Results/Power_Supply_PCB.png)
 
 ### PCB 3D View
-![3D View](Results/Power Supply 3D.png)
+![3D View](Results/Power_Supply_3D.png)
