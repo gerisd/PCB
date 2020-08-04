@@ -2,7 +2,7 @@
 
 ## Results
 ### Schematic
-![Schematic](Results/Arduino_Schematic.png){: height="100px" width="100px"}
+![Schematic](Results/Arduino_Schematic.png)
 ![Sub Page] (Results/Arduino Schematic 2.png)
 
 ### PCB 
