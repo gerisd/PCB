@@ -2,10 +2,10 @@
 
 ## Results
 ### Schematic
-![Schematic](Results/RPI HAT Schematic.png)
+![Schematic](Results/RPI_HAT_Schematic.png)
 
 ### PCB 
-![PCB](Results/RPI HAT PCB.png)
+![PCB](Results/RPI_HAT_PCB.png)
 
 ### PCB 3D View
-![3D View](Results/RPI HAT 3D.png)
+![3D View](Results/RPI_HAT_3D.png)
