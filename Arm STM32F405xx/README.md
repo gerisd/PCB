@@ -2,10 +2,10 @@
 
 ## Results 
 ### Schematic
-![Schematic](Results/STM32 Schematic.png)
+![Schematic](Results/STM32_Schematic.png)
 
 ### PCB 
-![PCB](Results/STM32 PCB.png)
+![PCB](Results/STM32_PCB.png)
 
 ### PCB 3D View
-![3D View](Results/STM32 3D.png)
+![3D View](Results/STM32_3D.png)
