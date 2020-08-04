@@ -3,6 +3,7 @@
 ## Results
 ### Schematic
 ![Schematic](Results/Arduino_Schematic.png)
+
 ![Sub Page] (Results/Arduino_Schematic_Sub.png)
 
 ### PCB 
