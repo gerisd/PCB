@@ -2,11 +2,11 @@
 
 ## Results
 ### Schematic
-![Schematic](Results/Arduino_Schem.png)
-![Sub Page] (Results/Arduino Schematic 2.png)
+![Schematic](Results/Arduino_schematic.png)
+![Sub Page] (Results/Arduino Schematic_Sub.png)
 
 ### PCB 
-![PCB](Results/Arduino PCB.png)
+![PCB](Results/Arduino_PCB.png)
 
 ### PCB 3D View
-![3D View](Results/Arduino 3D.png)
+![3D View](Results/Arduino_3D.png)
